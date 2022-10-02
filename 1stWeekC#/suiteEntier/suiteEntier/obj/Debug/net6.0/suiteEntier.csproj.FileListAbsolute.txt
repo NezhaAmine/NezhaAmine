@@ -1,0 +1,30 @@
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.AssemblyInfo.cs
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.exe
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.deps.json
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.runtimeconfig.json
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.dll
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.pdb
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.dll
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\refint\suiteEntier.dll
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.pdb
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.genruntimeconfig.cache
+C:\Users\HP\Documents\poo C#\suiteEntier\suiteEntier\obj\Debug\net6.0\ref\suiteEntier.dll
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.exe
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.deps.json
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.runtimeconfig.json
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.dll
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\bin\Debug\net6.0\suiteEntier.pdb
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.AssemblyInfo.cs
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.dll
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\refint\suiteEntier.dll
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.pdb
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\suiteEntier.genruntimeconfig.cache
+C:\Users\HP\Documents\1stWeekC#\suiteEntier\suiteEntier\obj\Debug\net6.0\ref\suiteEntier.dll

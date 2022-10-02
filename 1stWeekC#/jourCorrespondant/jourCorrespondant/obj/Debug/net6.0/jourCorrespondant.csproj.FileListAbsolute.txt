@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.AssemblyInfo.cs
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\bin\Debug\net6.0\jourCorrespondant.exe
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\bin\Debug\net6.0\jourCorrespondant.deps.json
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\bin\Debug\net6.0\jourCorrespondant.runtimeconfig.json
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\bin\Debug\net6.0\jourCorrespondant.dll
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\bin\Debug\net6.0\jourCorrespondant.pdb
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.dll
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\refint\jourCorrespondant.dll
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.pdb
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\jourCorrespondant.genruntimeconfig.cache
+C:\Users\HP\Documents\poo C#\jourCorrespondant\jourCorrespondant\obj\Debug\net6.0\ref\jourCorrespondant.dll
